@@ -1,0 +1,1 @@
+To make sure that the HUD shows up in the HTML you need to change `` Display:none to display:block``
